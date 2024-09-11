@@ -25,4 +25,4 @@ GPT2_scratch_train/dataloader.py - This contains code for Custom Dataloader for 
 
 GPT2_scratch_train/final_output.txt - This contains output after training GPT-2 model from scratch (less parameter count) on single collab GPU free-tier after 30 minutes of training.
 
-This code is inspire by Andrej Karpathy.
+This code is inspired by Andrej Karpathy.
